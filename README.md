@@ -1,2 +1,1 @@
 - 👋 Hello, I’m @julesgzel
-- 🌱 Engineering and computer science.
