@@ -1,4 +1,2 @@
-- 👋 welcome on my github profile
-- 🌱 instagram @julesgzel
-
+hello.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julesgzel&hide=contribs,prs)
