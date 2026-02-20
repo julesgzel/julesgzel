@@ -1,1 +1,1 @@
-contact : jules.gazengel@outlook.fr
+contact : julesgzel.dev@gmail.com
